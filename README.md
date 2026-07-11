@@ -1,39 +1,47 @@
 # MT5 Trade Management Panel
 
-A professional trade management panel developed for MetaTrader 5.
+A professional MetaTrader 5 trade management panel designed to simplify trade execution and risk management.
 
-The panel is designed to simplify trade execution, risk management, and position handling for discretionary traders.
+## Main Features
 
-## Features
+### Risk Management
 
-* Risk percentage based lot calculation
-* Automatic position sizing
-* Buy and Sell execution
+* Risk percentage input
+* Automatic lot size calculation
+* Position sizing based on stop loss distance
+
+### Order Execution
+
+* Buy market orders
+* Sell market orders
 * Pending order management
+
+### Position Management
+
+* Risk Free (Break Even)
+* Partial Close
+* Full Close
+* Chart Close
+
+### Trading Utilities
+
 * Manual and automatic Risk/Reward setup
-* Stop Loss and Take Profit line management
-* Break-even (Risk Free) functionality
-* Partial close
-* Full position close
+* Stop Loss line management
+* Entry line management
+* Take Profit line management
 * Spread display
-* Fast chart-based trade management
 
-## Technologies
+## Technology
 
-* MQL5
 * MetaTrader 5
+* MQL5
 
-<img width="1920" height="688" alt="Assistant EA" src="https://github.com/user-attachments/assets/2664e7a8-3c67-4321-bc99-519cdb2978fb" />
-<img width="1920" height="688" alt="Assistant EA3" src="https://github.com/user-attachments/assets/61b4aeb8-b238-4b90-9a4f-d8034e2daabd" />
-
-
+## Screenshots
+Assistant EA2.png
 
 (Add screenshots here)
 
-## Video Demonstration
+## Video Demo
 
 (Add video link here)
 
-## Contact
-
-Available for custom MQL4/MQL5 development projects.
