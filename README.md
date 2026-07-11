@@ -37,7 +37,7 @@ A professional MetaTrader 5 trade management panel designed to simplify trade ex
 * MQL5
 
 ## Screenshots
-Assistant EA2.png
+screenshots/Assistant EA2.png
 
 (Add screenshots here)
 
