@@ -58,7 +58,7 @@ A professional MetaTrader 5 trade management panel designed to simplify trade ex
 
 
 
-(Add screenshots here)
+
 
 ## Video Demo
 
