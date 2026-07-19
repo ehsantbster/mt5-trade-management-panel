@@ -37,7 +37,26 @@ A professional MetaTrader 5 trade management panel designed to simplify trade ex
 * MQL5
 
 ## Screenshots
-screenshots/Assistant EA2.png
+
+### Main Panel
+![Main Panel](screenshots/01mainminimized.png)
+
+### Main Panel
+![Main Panel](screenshots/02mainmaximized.png)
+
+### Risk Management
+![Risk Management](screenshots/03Stopline.png)
+
+### Risk Management
+![Risk Management](screenshots/04FirstSell.png)
+
+### Risk Management
+![Risk Management](screenshots/05ChangeRisk.png)
+
+### Buy / Sell Controls
+![Buy Sell](screenshots/06SecondSell.png)
+
+
 
 (Add screenshots here)
 
